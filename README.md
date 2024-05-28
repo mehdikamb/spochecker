@@ -1,5 +1,9 @@
 ***Libraries to download***
 
-`pip install selenium`
+```batch
+pip install selenium
+```
 
-`pip install webdriver-manager`
+```batch
+pip install webdriver-manager
+```
