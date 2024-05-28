@@ -1,3 +1,3 @@
-```Libraries to download```
-`pip install selenium`
+Libraries to download\n
+`pip install selenium`\n
 `pip install webdriver-manager`
