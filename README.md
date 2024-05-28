@@ -1,3 +1,5 @@
-Libraries to download\n
-`pip install selenium`\n
+Libraries to download
+
+`pip install selenium`
+
 `pip install webdriver-manager`
