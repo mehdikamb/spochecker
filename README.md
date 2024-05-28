@@ -1,2 +1,3 @@
-# spochecker
-Advanced Spotify Account Checker
+```Libraries to download```
+`pip install selenium`
+`pip install webdriver-manager`
